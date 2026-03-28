@@ -1,6 +1,6 @@
 # C-Radar (Crypto Intelligence)
 
-![C-Radar Dashboard Preview](./public/dashboard-preview.png)
+![C-Radar Dashboard Preview](./public/image.png)
 
 C-Radar is a full-stack, blazing-fast cryptocurrency tracking dashboard built to keep you constantly updated with the market momentum. The application seamlessly integrates the **CoinGecko API** for real-time market data alongside **Google Gemini AI** to provide an intelligent, live-context chat assistant—and does it all securely through a robust stateless Rust backend proxy.
 
